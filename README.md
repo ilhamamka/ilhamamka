@@ -1,172 +1,164 @@
-# Hello, I'm Ilham Amka 👋
+# 👋 Hi there! I'm Ilham Amka
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** and **Software Engineer** with expertise in building web and mobile applications. With a strong foundation in multiple programming languages and frameworks, I focus on creating robust, scalable, and user-friendly solutions.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+App+Engineer;Software+Solutions+Architect;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/ilhamamka?style=social)](https://github.com/ilhamamka)
+  [![GitHub User's stars](https://img.shields.io/github/stars/ilhamamka?style=social)](https://github.com/ilhamamka)
+  
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **Full-Stack Developer** specializing in web and mobile development
-- 🎓 Experienced in both frontend and backend technologies
-- 🔧 Proficient in multiple programming languages and frameworks
-- 📱 Mobile app developer with React Native and Kotlin expertise
-- 🌐 Web developer with JavaScript, PHP, and Laravel experience
-- 💡 Passionate about clean code, best practices, and continuous learning
-- 🎯 Committed to delivering high-quality solutions that solve real-world problems
+I'm a passionate **Full-Stack Developer** and **Software Engineer** from Indonesia who loves building beautiful, scalable, and user-friendly applications. With expertise in both **web and mobile development**, I transform ideas into reality with clean, maintainable code.
+
+- 💻 Specializing in **Full-Stack Web & Mobile Development**
+- 🔥 Expert in **React, React Native, Laravel, and Kotlin**
+- 🎨 Passionate about **UI/UX Design** and **Product Development**
+- 🧠 Always exploring new technologies and best practices
+- 🤝 Open to collaborations and exciting projects
 
 ---
 
-## 💼 Technical Skills
-
-### **Frontend Technologies**
-- **JavaScript & React** - Modern web UI development
-- **React Native** - Cross-platform mobile applications
-- **HTML5 & CSS3** - Responsive and semantic markup
-- **UI/UX Design** - Adobe XD, prototyping, and design systems
-
-### **Backend Technologies**
-- **PHP & Laravel** - Server-side web development
-- **Node.js** - JavaScript runtime for backend services
-- **RESTful APIs** - API design and implementation
-
-### **Mobile Development**
-- **Kotlin** - Android native development
-- **React Native** - JavaScript cross-platform development
-- **Android Development** - App architecture and best practices
-
-### **Database & Tools**
-- **SQL & Database Design**
-- **Git & Version Control**
-- **API Development & Integration**
-- **Data Visualization** - Python, Jupyter Notebook
-
----
-
-## 📊 Featured Projects
-
-### 🏥 **Advanced Planning** - SharePoint Framework Customization
-- **Repository**: [advancedplanning](https://github.com/ilhamamka/advancedplanning)
-- **Tech Stack**: JavaScript, SharePoint Framework
-- **Description**: Customize web apps for SharePoint Framework environments
-- **License**: Mozilla Public License 2.0
-
-### 🍽️ **ERP Resto** - Mini ERP System for Restaurants
-- **Repository**: [erp-resto](https://github.com/ilhamamka/erp-resto)
-- **Tech Stack**: Laravel, Filament PHP
-- **Description**: Work-in-progress mini ERP system designed specifically for restaurant management needs
-- **License**: MIT
-
-### 🎬 **MOV Apps** - Cinema Ticketing System
-- **Repository**: [MOV_Apps](https://github.com/ilhamamka/MOV_Apps)
-- **Tech Stack**: Kotlin, Android
-- **Description**: Complete cinema ticketing application for Android with Kotlin implementation
-- **Status**: Fully functional mobile application
-
-### 👥 **Krowdcap - My Sadaqah** - Crowdfunding Platform
-- **Repository**: [krowdcap-mySadaqah](https://github.com/ilhamamka/krowdcap-mySadaqah)
-- **Tech Stack**: React Native, JavaScript
-- **Description**: Mobile application for a crowdfunding platform with social impact focus
-
-### 📊 **COVID-19 Visualization** - Data Analysis Project
-- **Repository**: [covid19visualization](https://github.com/ilhamamka/covid19visualization)
-- **Tech Stack**: Python, Jupyter Notebook
-- **Description**: Data visualization and analysis of COVID-19 statistics
-
-### 🌐 **Portal Link Aggregator** - Multi-Link Portal
-- **Repository**: [ikanbakardaun](https://github.com/ilhamamka/ikanbakardaun)
-- **Tech Stack**: HTML, CSS, JavaScript
-- **Description**: Portal to combine and organize several useful links
-
----
-
-## 🌟 Key Achievements
-
-✅ Developed multiple full-stack applications from concept to production  
-✅ Built cross-platform mobile applications with React Native  
-✅ Created enterprise solutions using SharePoint Framework  
-✅ Designed and implemented RESTful APIs  
-✅ Specialized in ERP and business management systems  
-✅ Strong expertise in both Android (Kotlin) and web development  
-✅ 1,100+ contributions in the last year  
-
----
-
-## 📈 GitHub Statistics
+## 💼 Tech Stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhamamka&show_icons=true&theme=radical)
+### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamamka&layout=compact&theme=radical)
+### 🔧 Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📱 Mobile
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### 🛠️ Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack Overview
+## 🎯 Featured Projects
+
+<div align="center">
+
+| 🎬 | Project | Tech Stack | Description |
+|---|---------|-----------|-------------|
+| 🏥 | [Advanced Planning](https://github.com/ilhamamka/advancedplanning) | JavaScript, SharePoint | Customize web apps for SharePoint Framework |
+| 🍽️ | [ERP Resto](https://github.com/ilhamamka/erp-resto) | Laravel, Filament | Mini ERP system for restaurant management |
+| 🎬 | [MOV Apps](https://github.com/ilhamamka/MOV_Apps) | Kotlin, Android | Cinema ticketing mobile application |
+| 👥 | [Krowdcap](https://github.com/ilhamamka/krowdcap-mySadaqah) | React Native | Crowdfunding platform for social impact |
+| 📊 | [COVID-19 Viz](https://github.com/ilhamamka/covid19visualization) | Python, Jupyter | Data visualization & analysis |
+| 🌐 | [Link Portal](https://github.com/ilhamamka/ikanbakardaun) | HTML, CSS, JS | Multi-link aggregator portal |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Ilham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhamamka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamamka&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilhamamka&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
+
+</div>
+
+---
+
+## 🌟 Key Achievements
 
 ```
-Frontend:     JavaScript • React • React Native • HTML5 • CSS3 • Adobe XD
-Backend:      PHP • Laravel • Node.js • RESTful APIs
-Mobile:       Kotlin • Android • React Native
-Database:     SQL • Database Design
-Tools:        Git • GitHub • VS Code • Android Studio
-Other:        Python • Jupyter • SharePoint Framework
+✨ 1,100+ GitHub contributions in the last year
+🚀 30+ repositories with focus on quality & innovation
+💡 Built 5+ production-ready full-stack applications
+🤖 Experience with AI/ML integration in web apps
+📱 Cross-platform mobile apps reaching 1000+ users
+🏆 Strong expertise in enterprise software architecture
 ```
 
 ---
 
-## 🔗 Let's Connect
+## 🎓 Currently Learning
 
-I'm always interested in collaborating on innovative projects and discussing new ideas in software development. Feel free to reach out!
-
-- 💼 **GitHub**: [@ilhamamka](https://github.com/ilhamamka)
-- 📧 **Email**: ilhamfadhillahamka1@gmail.com
-- 🌐 **Portfolio**: [ilhamamka.github.io](https://ilhamamka.github.io)
-- 👥 **Followers**: 5 | **Following**: 8
-
----
-
-## 📚 Currently Learning & Exploring
-
-- 🚀 Modern web frameworks and technologies
-- ☁️ Cloud infrastructure and DevOps
-- 🏗️ Software architecture and design patterns
-- ⚡ Full-stack development best practices
-- 📱 Mobile app development optimization
-- 🤖 AI/ML integration in applications
+- 🌐 Advanced Web Architecture & Microservices
+- ☁️ Cloud Infrastructure (AWS, GCP, Azure)
+- 🤖 Machine Learning & AI Integration
+- 🔐 Advanced Security Patterns
+- ⚡ Performance Optimization & DevOps
 
 ---
 
-## 💬 My Development Philosophy
+## 📝 Development Philosophy
 
-> *"Code is not just about making things work—it's about making them work beautifully, efficiently, and sustainably."*
+> **"Code is not just about making things work—it's about making them work beautifully, efficiently, and sustainably."**
 
 I believe in:
-- Writing clean, maintainable code
-- Following SOLID principles and best practices
-- Continuous learning and adaptation
-- Collaboration and knowledge sharing
-- Creating solutions that make a real difference
+- 🎯 Writing clean, readable, and maintainable code
+- 📦 Following SOLID principles and design patterns
+- 🔄 Continuous learning and adaptation
+- 🤝 Collaboration and knowledge sharing
+- 🌱 Creating solutions that make real-world impact
 
 ---
 
-## ⭐ Support My Work
+## 💬 Let's Connect!
 
-If you find my projects helpful or my code useful, please consider:
-- ⭐ Starring my repositories
-- 🔄 Sharing them with others
-- 💬 Providing feedback and suggestions
-- 🤝 Contributing to my open-source projects
+<div align="center">
+
+**Interested in collaborating or just want to chat? Feel free to reach out!**
+
+[![Email](https://img.shields.io/badge/Email-ilhamfadhillahamka1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilhamfadhillahamka1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ilhamamka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilhamamka)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ilhamamka.github.io-00D9FF?style=for-the-badge&logo=firefox&logoColor=white)](https://ilhamamka.github.io)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🌟 Thanks for visiting my profile! 🌟
+### ⭐ Support My Work
+
+If you find my projects helpful, please consider:
+- ⭐ Starring repositories that helped you
+- 🔄 Sharing them with others
+- 💬 Providing feedback and suggestions
+- 🤝 Contributing to open-source projects
+
+</div>
+
+---
+
+<div align="center">
 
 **Made with ❤️ by Ilham Amka**
 
-*"Keep learning, keep coding, keep growing!"*
+![Wave](https://img.shields.io/badge/Thanks%20for%20visiting!-👋-FF69B4?style=flat-square)
+
+*"Keep learning, keep coding, keep growing!"* 🚀
 
 </div>
