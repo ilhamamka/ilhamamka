@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Ilham Amka
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+App+Engineer;Software+Solutions+Architect;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+App+Engineer;AI+%26+ML+Enthusiast;Software+Solutions+Architect;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,12 +17,14 @@
 
 <img align="right" src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&logo=flutter" />
 
-I'm a passionate **Full-Stack Developer** and **Software Engineer** from Indonesia who loves building beautiful, scalable, and user-friendly applications. With expertise in both **web and mobile development**, I transform ideas into reality with clean, maintainable code.
+I'm a passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Software Architect** from Indonesia who loves building intelligent, scalable, and user-friendly applications. With expertise in **web development, mobile apps, and machine learning**, I create solutions that blend cutting-edge technology with practical business value.
 
-- 💻 Specializing in **Full-Stack Web & Mobile Development**
-- 🔥 Expert in **React, React Native, Laravel, and Kotlin**
+- 💻 Full-Stack Web & Mobile Development
+- 🤖 AI/ML Model Development & Integration
+- 🔥 Expert in **React, React Native, Laravel, Kotlin, Python, TensorFlow**
 - 🎨 Passionate about **UI/UX Design** and **Product Development**
-- 🧠 Always exploring new technologies and best practices
+- 🧠 Deep learning, NLP, and Computer Vision enthusiast
+- 🔄 MLOps and model deployment optimization
 - 🤝 Open to collaborations and exciting projects
 - ⚡ 1,100+ GitHub contributions in the last year
 
@@ -50,32 +52,101 @@ I'm a passionate **Full-Stack Developer** and **Software Engineer** from Indones
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1a1b27)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1b27)
 
-### 🛠️ Tools & Others
+### 🤖 AI/ML & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1b27)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1b27)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1b27)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1b27)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1b27)
+
+### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1b27)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1b27)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1b27)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1a1b27)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
-  
-  ![Ilham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhamamka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=38bdae&border_color=00d9ff)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamamka&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=38bdae&border_color=00d9ff)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilhamamka&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d9ff&fire=ff006e&currStreakLabel=00d9ff&sideLabels=38bdae)
+
+**GitHub Statistics**
+
+| Metric | Value |
+|--------|-------|
+| 🔥 Total Contributions (Last Year) | 1,100+ |
+| 📦 Public Repositories | 30+ |
+| ⭐ Total Stars Received | Pending |
+| 👥 Followers | 5+ |
+| 🔗 Following | 8 |
 
 </div>
 
 ---
 
-## 🌟 Key Highlights
+## 🌟 Key Expertise Areas
+
+<div align="center">
+
+### 💡 Core Competencies
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  🎯 Full-Stack Web Development                         │
+│     → React, Node.js, PHP/Laravel, Database Design    │
+│                                                         │
+│  📱 Mobile Application Development                      │
+│     → React Native, Kotlin, Native Android             │
+│                                                         │
+│  🤖 AI & Machine Learning Engineering                  │
+│     → Deep Learning, NLP, Computer Vision              │
+│     → Model Training & Optimization                    │
+│     → MLOps & Model Deployment                         │
+│                                                         │
+│  🔍 Data Science & Analytics                           │
+│     → Data Preprocessing & Feature Engineering         │
+│     → Predictive Analytics & Visualization             │
+│     → Python, Pandas, Scikit-learn                     │
+│                                                         │
+│  🏗️ Software Architecture                              │
+│     → System Design & Scalability                      │
+│     → API Design & Integration                         │
+│     → Enterprise Solutions                             │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🎓 ML & AI Specializations
+
+<div align="center">
+
+![Specialization](https://img.shields.io/badge/🧠-Deep%20Learning-ff006e?style=for-the-badge&labelColor=1a1b27)
+![Specialization](https://img.shields.io/badge/📝-Natural%20Language%20Processing-00d9ff?style=for-the-badge&labelColor=1a1b27)
+![Specialization](https://img.shields.io/badge/👁️-Computer%20Vision-38bdae?style=for-the-badge&labelColor=1a1b27)
+![Specialization](https://img.shields.io/badge/📊-Data%20Analysis-FFD700?style=for-the-badge&labelColor=1a1b27)
+
+### Experience With:
+- **Frameworks**: TensorFlow, PyTorch, Keras, Scikit-learn
+- **Domains**: NLP, Image Classification, Time Series Analysis, Recommendation Systems
+- **Deployment**: Model serving, Docker containerization, API integration
+- **Tools**: Jupyter Notebook, Google Colab, Weights & Biases
+
+</div>
+
+---
+
+## 📈 Achievements & Highlights
 
 <div align="center">
 
@@ -84,11 +155,13 @@ I'm a passionate **Full-Stack Developer** and **Software Engineer** from Indones
 ║                   MY ACHIEVEMENTS                        ║
 ╠══════════════════════════════════════════════════════════╣
 ║  ✨ 1,100+ GitHub contributions in the last year         ║
-║  🚀 30+ repositories with focus on quality              ║
+║  🚀 30+ repositories with quality focus                 ║
 ║  💡 Built 5+ production-ready full-stack apps           ║
-║  🤖 Experience with AI/ML integration                   ║
+║  🤖 Deployed ML models in production environments       ║
+║  📊 Data science projects with real-world impact        ║
 ║  📱 Cross-platform mobile apps                          ║
 ║  🏆 Strong expertise in enterprise architecture         ║
+║  🎓 Continuous learner in AI/ML advancements            ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -96,44 +169,45 @@ I'm a passionate **Full-Stack Developer** and **Software Engineer** from Indones
 
 ---
 
-## 🎓 Currently Learning
+## 🎓 Currently Learning & Exploring
 
 <div align="center">
 
-![Learning](https://img.shields.io/badge/🌐-Advanced%20Web%20Architecture-00d9ff?style=for-the-badge&labelColor=1a1b27)
-![Learning](https://img.shields.io/badge/☁️-Cloud%20Infrastructure-00d9ff?style=for-the-badge&labelColor=1a1b27)
-![Learning](https://img.shields.io/badge/🤖-Machine%20Learning-00d9ff?style=for-the-badge&labelColor=1a1b27)
-![Learning](https://img.shields.io/badge/🔐-Advanced%20Security-00d9ff?style=for-the-badge&labelColor=1a1b27)
-![Learning](https://img.shields.io/badge/⚡-Performance%20Optimization-00d9ff?style=for-the-badge&labelColor=1a1b27)
+![Learning](https://img.shields.io/badge/🧠-Advanced%20Deep%20Learning-ff006e?style=for-the-badge&labelColor=1a1b27)
+![Learning](https://img.shields.io/badge/🌐-LLM%20%26%20Transformers-00d9ff?style=for-the-badge&labelColor=1a1b27)
+![Learning](https://img.shields.io/badge/☁️-Cloud%20%26%20MLOps-38bdae?style=for-the-badge&labelColor=1a1b27)
+![Learning](https://img.shields.io/badge/🔐-ML%20Security-FFD700?style=for-the-badge&labelColor=1a1b27)
+![Learning](https://img.shields.io/badge/⚡-Model%20Optimization-ff006e?style=for-the-badge&labelColor=1a1b27)
 
 </div>
 
 ---
 
-## 📝 Development Philosophy
+## 📝 Development & ML Philosophy
 
 <div align="center">
 
 ### 💭 Code is not just about making things work
 
-#### It's about making them work **beautifully**, **efficiently**, and **sustainably**.
+#### It's about making them work **beautifully**, **efficiently**, and **intelligently**.
 
 </div>
 
 I believe in:
 - 🎯 Writing clean, readable, and maintainable code
 - 📦 Following SOLID principles and design patterns
-- 🔄 Continuous learning and adaptation
+- 🤖 Leveraging AI/ML to solve real-world problems
+- 🔄 Continuous learning and staying updated with tech trends
 - 🤝 Collaboration and knowledge sharing
-- 🌱 Creating solutions that make real-world impact
+- 🌱 Creating solutions that make meaningful impact
 
 ---
 
-## 💬 Let's Connect!
+## 💬 Let's Connect & Collaborate!
 
 <div align="center">
 
-**Interested in collaborating or just want to chat? Feel free to reach out!**
+**Interested in collaborating on web apps, mobile projects, or ML solutions? Let's talk!**
 
 [![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:ilhamfadhillahamka1@gmail.com)
 [![GitHub](https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/ilhamamka)
@@ -160,7 +234,7 @@ If you find my work helpful, please consider:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+👋;Keep+learning%2C+keep+coding%2C+keep+growing!+🚀;Let's+build+something+amazing+together+💡" alt="Closing message" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+👋;Let's+build+something+amazing+together+🚀;Full-Stack+%2B+AI%2FML+%3D+Innovation+💡" alt="Closing message" />
 
 **Made with ❤️ by Ilham Amka**
 
