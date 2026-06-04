@@ -146,6 +146,24 @@ I'm a passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Software Ar
 
 ---
 
+## 🎮 Skill Mastery Progress
+
+<div align="center">
+
+**Technical Skills Development**
+
+```
+Full-Stack Web     ████████████████░░ 85%
+Mobile Dev         ████████████░░░░░░ 75%
+AI/ML Engineering  ███████████░░░░░░░ 70%
+DevOps & Cloud     ████████░░░░░░░░░░ 55%
+System Design      ██████████░░░░░░░░ 65%
+```
+
+</div>
+
+---
+
 ## 📈 Achievements & Highlights
 
 <div align="center">
@@ -164,6 +182,84 @@ I'm a passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Software Ar
 ║  🎓 Continuous learner in AI/ML advancements            ║
 ╚══════════════════════════════════════════════════════════╝
 ```
+
+</div>
+
+---
+
+## 🎵 Current Vibe
+
+<div align="center">
+
+**When I'm Coding...**
+
+- 🎧 **Favorite Music**: Lo-fi Hip Hop, Synthwave, Ambient
+- ☕ **Fuel**: Coffee, Tea & Determination
+- 🌙 **Best Time**: Late Night Sessions
+- 🎯 **Mood**: Always in Flow State
+
+</div>
+
+---
+
+## 🏆 Achievement Unlocked
+
+<div align="center">
+
+### Level System
+
+```
+┌────────────────────────────────────┐
+│   🥇 Achievement Progress          │
+├────────────────────────────────────┤
+│ [████████░░] Coding Wizard         │
+│ [██████████] Problem Solver        │
+│ [████████░░] Tech Innovator        │
+│ [███████░░░] Open Source Contrib   │
+│ [██████░░░░] Documentation Master  │
+└────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 💻 Favorite Code Snippet
+
+<div align="center">
+
+**Clean Code Philosophy**
+
+```javascript
+// Keep it simple, make it elegant
+const buildAwesomeThings = (idea, passion, dedication) => {
+  while (learning) {
+    implement(idea);
+    test(thoroughly);
+    refactor(continuously);
+    share(knowledge);
+  }
+  return impact;
+};
+```
+
+</div>
+
+---
+
+## 🎭 Profile Features
+
+<div align="center">
+
+### What You'll Find Here:
+
+| Feature | Description |
+|---------|-------------|
+| 🌙 **Dark Mode** | Optimized for GitHub dark theme |
+| 💫 **Animations** | Smooth typing SVG animations |
+| 📱 **Mobile Ready** | Responsive on all devices |
+| ♿ **Accessible** | Semantic HTML & ARIA labels |
+| 🚀 **Performance** | Lightweight & fast loading |
 
 </div>
 
