@@ -234,10 +234,23 @@ If you find my work helpful, please consider:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+👋;Let's+build+something+amazing+together+🚀;Full-Stack+%2B+AI%2FML+%3D+Innovation+💡" alt="Closing message" />
+## 🌟 Thanks for Visiting! 🌟
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&lines=Let's+build+something+amazing+together+🚀;Full-Stack+%2B+AI%2FML+%3D+Innovation+💡;Always+learning%2C+always+growing+📈;Feel+free+to+reach+out+and+collaborate+🤝" alt="Footer Animation" />
 
 **Made with ❤️ by Ilham Amka**
 
+![Wave](https://img.shields.io/badge/Thanks%20for%20stopping%20by!-👋-00D9FF?style=flat-square&labelColor=1a1b27)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ilhamamka.ilhamamka&title=Profile%20Views&color=00d9ff&style=flat-square&labelColor=1a1b27)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Let's Connect
+**Feel free to reach out on [GitHub](https://github.com/ilhamamka) or [Email](mailto:ilhamfadhillahamka1@gmail.com)**
 
 </div>
