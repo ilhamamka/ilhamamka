@@ -15,6 +15,8 @@
 
 ## 🚀 About Me
 
+<img align="right" src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&logo=flutter" />
+
 I'm a passionate **Full-Stack Developer** and **Software Engineer** from Indonesia who loves building beautiful, scalable, and user-friendly applications. With expertise in both **web and mobile development**, I transform ideas into reality with clean, maintainable code.
 
 - 💻 Specializing in **Full-Stack Web & Mobile Development**
@@ -22,6 +24,7 @@ I'm a passionate **Full-Stack Developer** and **Software Engineer** from Indones
 - 🎨 Passionate about **UI/UX Design** and **Product Development**
 - 🧠 Always exploring new technologies and best practices
 - 🤝 Open to collaborations and exciting projects
+- ⚡ 1,100+ GitHub contributions in the last year
 
 ---
 
@@ -30,46 +33,29 @@ I'm a passionate **Full-Stack Developer** and **Software Engineer** from Indones
 <div align="center">
 
 ### 🎨 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1b27)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1b27)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1b27)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1b27)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1b27)
 
 ### 🔧 Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1b27)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=1a1b27)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1b27)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1b27)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1b27)
 
 ### 📱 Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1a1b27)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1b27)
 
 ### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-| 🎬 | Project | Tech Stack | Description |
-|---|---------|-----------|-------------|
-| 🏥 | [Advanced Planning](https://github.com/ilhamamka/advancedplanning) | JavaScript, SharePoint | Customize web apps for SharePoint Framework |
-| 🍽️ | [ERP Resto](https://github.com/ilhamamka/erp-resto) | Laravel, Filament | Mini ERP system for restaurant management |
-| 🎬 | [MOV Apps](https://github.com/ilhamamka/MOV_Apps) | Kotlin, Android | Cinema ticketing mobile application |
-| 👥 | [Krowdcap](https://github.com/ilhamamka/krowdcap-mySadaqah) | React Native | Crowdfunding platform for social impact |
-| 📊 | [COVID-19 Viz](https://github.com/ilhamamka/covid19visualization) | Python, Jupyter | Data visualization & analysis |
-| 🌐 | [Link Portal](https://github.com/ilhamamka/ikanbakardaun) | HTML, CSS, JS | Multi-link aggregator portal |
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1b27)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1b27)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27)
 
 </div>
 
@@ -79,42 +65,60 @@ I'm a passionate **Full-Stack Developer** and **Software Engineer** from Indones
 
 <div align="center">
   
-  ![Ilham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhamamka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff)
+  ![Ilham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhamamka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=38bdae&border_color=00d9ff)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamamka&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamamka&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=38bdae&border_color=00d9ff)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilhamamka&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilhamamka&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d9ff&fire=ff006e&currStreakLabel=00d9ff&sideLabels=38bdae)
 
 </div>
 
 ---
 
-## 🌟 Key Achievements
+## 🌟 Key Highlights
+
+<div align="center">
 
 ```
-✨ 1,100+ GitHub contributions in the last year
-🚀 30+ repositories with focus on quality & innovation
-💡 Built 5+ production-ready full-stack applications
-🤖 Experience with AI/ML integration in web apps
-📱 Cross-platform mobile apps reaching 1000+ users
-🏆 Strong expertise in enterprise software architecture
+╔══════════════════════════════════════════════════════════╗
+║                   MY ACHIEVEMENTS                        ║
+╠══════════════════════════════════════════════════════════╣
+║  ✨ 1,100+ GitHub contributions in the last year         ║
+║  🚀 30+ repositories with focus on quality              ║
+║  💡 Built 5+ production-ready full-stack apps           ║
+║  🤖 Experience with AI/ML integration                   ║
+║  📱 Cross-platform mobile apps                          ║
+║  🏆 Strong expertise in enterprise architecture         ║
+╚══════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 ---
 
 ## 🎓 Currently Learning
 
-- 🌐 Advanced Web Architecture & Microservices
-- ☁️ Cloud Infrastructure (AWS, GCP, Azure)
-- 🤖 Machine Learning & AI Integration
-- 🔐 Advanced Security Patterns
-- ⚡ Performance Optimization & DevOps
+<div align="center">
+
+![Learning](https://img.shields.io/badge/🌐-Advanced%20Web%20Architecture-00d9ff?style=for-the-badge&labelColor=1a1b27)
+![Learning](https://img.shields.io/badge/☁️-Cloud%20Infrastructure-00d9ff?style=for-the-badge&labelColor=1a1b27)
+![Learning](https://img.shields.io/badge/🤖-Machine%20Learning-00d9ff?style=for-the-badge&labelColor=1a1b27)
+![Learning](https://img.shields.io/badge/🔐-Advanced%20Security-00d9ff?style=for-the-badge&labelColor=1a1b27)
+![Learning](https://img.shields.io/badge/⚡-Performance%20Optimization-00d9ff?style=for-the-badge&labelColor=1a1b27)
+
+</div>
 
 ---
 
 ## 📝 Development Philosophy
 
-> **"Code is not just about making things work—it's about making them work beautifully, efficiently, and sustainably."**
+<div align="center">
+
+### 💭 Code is not just about making things work
+
+#### It's about making them work **beautifully**, **efficiently**, and **sustainably**.
+
+</div>
 
 I believe in:
 - 🎯 Writing clean, readable, and maintainable code
@@ -131,9 +135,24 @@ I believe in:
 
 **Interested in collaborating or just want to chat? Feel free to reach out!**
 
-[![Email](https://img.shields.io/badge/Email-ilhamfadhillahamka1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilhamfadhillahamka1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ilhamamka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilhamamka)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ilhamamka.github.io-00D9FF?style=for-the-badge&logo=firefox&logoColor=white)](https://ilhamamka.github.io)
+[![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:ilhamfadhillahamka1@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/ilhamamka)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-00D9FF?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a1b27)](https://ilhamamka.github.io)
+
+</div>
+
+---
+
+## ⭐ Show Some Love!
+
+If you find my work helpful, please consider:
+
+<div align="center">
+
+![Star](https://img.shields.io/badge/⭐-Starring%20repositories-FFD700?style=for-the-badge&labelColor=1a1b27)
+![Share](https://img.shields.io/badge/🔄-Sharing%20projects-00d9ff?style=for-the-badge&labelColor=1a1b27)
+![Feedback](https://img.shields.io/badge/💬-Giving%20feedback-38bdae?style=for-the-badge&labelColor=1a1b27)
+![Contribute](https://img.shields.io/badge/🤝-Contributing-ff006e?style=for-the-badge&labelColor=1a1b27)
 
 </div>
 
@@ -141,24 +160,10 @@ I believe in:
 
 <div align="center">
 
-### ⭐ Support My Work
-
-If you find my projects helpful, please consider:
-- ⭐ Starring repositories that helped you
-- 🔄 Sharing them with others
-- 💬 Providing feedback and suggestions
-- 🤝 Contributing to open-source projects
-
-</div>
-
----
-
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+👋;Keep+learning%2C+keep+coding%2C+keep+growing!+🚀;Let's+build+something+amazing+together+💡" alt="Closing message" />
 
 **Made with ❤️ by Ilham Amka**
 
-![Wave](https://img.shields.io/badge/Thanks%20for%20visiting!-👋-FF69B4?style=flat-square)
-
-*"Keep learning, keep coding, keep growing!"* 🚀
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ilhamamka.ilhamamka&title=Profile%20Views&color=00d9ff&style=flat-square&labelColor=1a1b27)
 
 </div>
